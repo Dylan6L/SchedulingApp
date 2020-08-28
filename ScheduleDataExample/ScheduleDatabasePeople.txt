@@ -1,0 +1,21 @@
+Dylan,4,Buns,Grill,Fryers,Dish Close,35,a,Mondays-7:00:00 AM-4:00:00 PM,Tuesdays-7:00:00 AM-4:00:00 PM,Wednesdays-7:00:00 AM-4:00:00 PM,Thursdays-7:00:00 AM-4:00:00 PM,Fridays-7:00:00 AM-4:00:00 PM,t,e
+Hayleigh,7,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,Custard Close,40,a,t,e
+Nikko,2,Frontline Manager,Frontline Closer,40,a,Sundays-5:00:00 PM-10:00:00 PM,t,8/29/2020,e
+Lindsey,4,Openner Manager,Frontline Manager,Backline Manager,Frontline Closer,40,a,t,e
+Kevin,4,Buns,Grill,Fryers,Dish Close,40,a,t,e
+Kyle,5,Buns,Grill,Fryers,Middle,Kitchen Close,40,a,Mondays-7:00:00 AM-5:00:00 PM,Tuesdays-7:00:00 AM-5:00:00 PM,Wednesdays-7:00:00 AM-5:00:00 PM,Thursdays-7:00:00 AM-5:00:00 PM,Fridays-7:00:00 AM-5:00:00 PM,t,e
+Ryan,5,Buns,Grill,Fryers,Dish Close,Prep,40,a,t,e
+Adrian,7,Buns,Grill,Fryers,Middle,Kitchen Close,Porter,Backline Manager,45,a,t,e
+Davin,7,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,Custard Close,35,a,t,e
+Hayley G,6,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,35,a,t,e
+Russel,2,Porter,Frontline Manager,40,a,t,e
+Jimmy,7,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,Custard Close,25,a,t,e
+Jacob,3,Buns,Grill,Dish Close,35,a,t,e
+Fausto,4,Buns,Grill,Fryers,Prep,45,a,t,e
+Kaitlin,7,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,Custard Close,40,a,t,e
+Micheal,4,Runner,Dining,Cash,Dining Close,30,a,t,e
+Lizzy,2,Runner,Dining,20,a,t,e
+Mia,7,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,Custard Close,40,a,t,e
+bob,7,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,Custard Close,40,a,t,e
+joe,7,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,Custard Close,40,a,t,e
+billy,7,Runner,Dining,Cash,Dining Close,DT Cash,DT Order,Custard Close,40,a,t,e

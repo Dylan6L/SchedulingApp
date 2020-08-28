@@ -1,0 +1,7 @@
+Monday,Dining,d,Runner,p,2,2,2,2,dt,5,4,3,3,e
+Tuesday,Dining,d,p,2,2,2,2,dt,5,4,4,3,e
+Wednesday,Dining,d,p,2,2,2,2,dt,5,4,4,3,e
+Thursday,Dining,d,Float,p,2,2,2,2,dt,5,4,4,3,e
+Friday,Extra Cash,Dining,d,p,3,3,2,3,dt,6,5,5,4,e
+Saturday,Extra Cash,Runner,Dining,d,Extra Cash,Runner,Dining,p,3,3,2,3,dt,6,3,4,3,e
+Sunday,Extra Cash,Runner,Dining,d,Extra Cash,Runner,Dining,p,2,2,2,2,dt,5,4,4,3,e
